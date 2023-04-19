@@ -14,7 +14,7 @@
 
 O poder da tecnologia não está no que ela pode fazer, mas no que podemos fazer com ela.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EdurafaelO&hide_progress=true)]()
 
 ## Sinta-se à vontade para me contatar
 
