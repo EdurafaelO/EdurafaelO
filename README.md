@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-oliveira-1465211b5/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551999405523?text=Ol%C3%A1!%20Vim%20do%20seu%20github)
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdurafaelO&show_icons=true&theme=dark)
+
 
 ### Tecnologias do meu dia a dia 👨‍💻
 
